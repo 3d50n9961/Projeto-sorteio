@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: black;
+}
+
+img {
+    width: 583px;
+    height: 374px;
+    margin-top: 100px;
+    left: 728px;
+    gap: 0px;
+    opacity: 0px;
+    margin-bottom: 30px;
+
+}
+
+header {
+    margin: top 60px;
+    display: flex;
+    /* Ativa o Flexbox */
+    flex-direction: column;
+    /* Organiza os itens em coluna */
+    align-items: center;
+    /* Centraliza horizontalmente */
+    justify-content: center;
+    /* Centraliza verticalmente */
+    text-align: center;
+    /* Centraliza o texto */
+    margin-bottom: 30px;
+}
+
+h2 {
+
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 37.5px;
+    color: white;
+
+}
+
+main {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+
+}
+
+input {
+    width: 150px;
+    height: 30px;
+    padding: 13px 233px 30px 16px;
+    border-radius: 14px;
+    border: 1px 0px 0px 0px;
+    background-color: rgba(255, 255, 255, 0.25);
+    margin-right: 15px;
+    margin-left: 15px;
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 46.88px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+    margin-bottom: 20px;
+
+
+
+}
+
+button {
+    display: flex;
+    margin: auto;
+    background-color: rgba(174, 195, 70, 1);
+    width: 310px;
+    height: 72px;
+    padding: 10px 76px 0px 95px;
+    border-radius: 10px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    cursor: pointer;
+    color: azure;
+}
+button.active{
+    opacity: 50%;
+}
+button.hover{
+    opacity: .7;
+}

@@ -24,6 +24,10 @@ Este é um **sorteador de números aleatórios** que permite ao usuário definir
 <div align="center">
   <img src="screenshot.png" alt="Interface do sorteador de números" width="600"/>
 </div>
+## 🌍 Acesse Online  
+🔗 Você pode testar a ferramenta diretamente pelo GitHub Pages:  
+👉 [**Clique aqui para acessar!**](https://3d50n9961.github.io/sorteador-numeros)
+
 
 ---
 

@@ -26,7 +26,9 @@ Este é um **sorteador de números aleatórios** que permite ao usuário definir
 </div>
 ## 🌍 Acesse Online  
 🔗 Você pode testar a ferramenta diretamente pelo GitHub Pages:  
-👉 [**Clique aqui para acessar!**](https://3d50n9961.github.io/Projeto-sorteio/)
+
+<a href="https://3d50n9961.github.io/Projeto-sorteio/" style="display:none;">👉Clique aqui para acessar!</a>
+
 
 
 ---
